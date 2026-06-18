@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Asyifa Salsa Billah Firdausy</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+        <img src="profil.jpg" alt="Foto Profil" class="profile-img">
+
+        <h1>Asyifa Salsa Billah Firdausy</h1>
+        <p class="subtitle">
+            Penulis • Pecinta Sains • Pembelajar Seumur Hidup
+        </p>
+    </div>
+</header>
+
+<section class="card">
+    <h2>🌷 Tentang Saya</h2>
+
+    <p>
+        Perkenalkan, saya <b>Asyifa Salsabillah Firdausy</b>,
+        anak bungsu yang lahir di Muratara pada 21 Oktober.
+        Saya merupakan pribadi yang aktif, kreatif, dan memiliki
+        minat besar dalam bidang sains, literasi, serta kegiatan organisasi.
+
+        Saya senang mengembangkan kemampuan akademik maupun non-akademik
+        melalui berbagai kompetisi, kepemimpinan, dan pengalaman baru.
+    </p>
+</section>
+
+<section class="card">
+    <h2>🏆 Riwayat Prestasi</h2>
+
+    <ul>
+        <li>Juara Harapan 2 Olimpiade Sains Kuark Tahun 2018</li>
+        <li>Juara 1 Kompetisi Sains Madrasah (KSM) Tingkat Kabupaten Tahun 2022</li>
+        <li>Juara 2 FLS3N Lomba Menulis Cerita Tingkat Kota Tahun 2025</li>
+        <li>Juara 1 Lomba Menulis Cerita Event Edu Fair SMP Ar-Risalah Tahun 2025</li>
+        <li>Peringkat 5 Besar Olimpiade Sains Nasional (OSN) Tingkat Sekolah</li>
+        <li>Santri Teladan Bidang Bahasa Arab 4 Semester</li>
+        <li>Santri Hafalan Tercepat (42 Hadits Arbain Nawawi, Wirid 4 Paket, Aqidatul Awwam dalam 27 hari)</li>
+    </ul>
+</section>
+
+<section class="card">
+    <h2>🌟 Pengalaman Organisasi</h2>
+
+    <ul>
+        <li>Anggota Tim Multimedia</li>
+        <li>Ketua Acara Ekspresi Santri</li>
+        <li>Anggota Library Lovers Club</li>
+        <li>Anggota Ashabussufah</li>
+        <li>MC Non Formal Mega Konser Tahun 2025</li>
+        <li>Duta Anti Bullying SMP Ar-Risalah Tahun 2023</li>
+    </ul>
+</section>
+
+<section class="card">
+    <h2>💙 Hobi & Minat</h2>
+
+    <div class="hobi">
+        <span>📚 Membaca</span>
+        <span>✍️ Menulis</span>
+        <span>🎵 Mendengarkan Musik</span>
+        <span>✨ Mencoba Hal Baru</span>
+    </div>
+</section>
+
+<section class="card">
+    <h2>📱 Media Sosial</h2>
+
+    <p>
+        Instagram :
+        <a href="https://instagram.com/mevoilamara" target="_blank">
+            @mevoilamara
+        </a>
+    </p>
+
+    <p>
+        TikTok :
+        <a href="https://tiktok.com/@mevoilamaraa" target="_blank">
+            @mevoilamaraa
+        </a>
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Asyifa Salsa Billah Firdausy</p>
+</footer>
+
+</body>
+</html>
